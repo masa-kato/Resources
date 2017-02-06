@@ -23,3 +23,6 @@ selenium
 
 ## Project Organization
 [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
+
+## Datasets
+[UCI Datasets](http://archive.ics.uci.edu/ml/index.htmls)
