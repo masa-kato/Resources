@@ -15,5 +15,11 @@ selenium
 ### Best Practices
 [4 Best Practices of Web Scraping](http://scraping.pro/basic-web-scraping-principles/)
 
+## Pandas
+* [Pandas Cheatsheet](/Git/Git_Cheat_Sheet.pdf)
+
+## Git / GitHub
+* [Git Cheatsheet](/Pandas/Pandas_Cheat_Sheet.pdf)
+
 ## Project Organization
 [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
