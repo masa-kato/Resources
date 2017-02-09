@@ -21,8 +21,20 @@ selenium
 ## Git / GitHub
 * [Git Cheatsheet](/Pandas/Pandas_Cheat_Sheet.pdf)
 
+## SQL
+* [Sequel Quick Guide](http://www.tutorialspoint.com/sql/sql-quick-guide.htm)
+
+
 ## Project Organization
 [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
 
 ## Datasets
 [UCI Datasets](http://archive.ics.uci.edu/ml/index.htmls)
+
+[City of Chicago Datasets](https://data.cityofchicago.org/)
+
+## Blogs
+[OpenAI](https://openai.com/blog/)
+
+## Career
+* [Creddle](http://creddle.io/) - Resume Builder Website
