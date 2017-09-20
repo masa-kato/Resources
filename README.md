@@ -1,5 +1,5 @@
 # Data Science Resources
-** An ever growing list of data science resources for all levels of expertise**
+**An ever growing list of data science resources for all levels of expertise**
 
 ## Machine Learning / Deep Learning Coursework
 * [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)  
